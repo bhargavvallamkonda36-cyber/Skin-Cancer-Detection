@@ -1,6 +1,7 @@
 # CNN to identify malign moles on skin
-#### *by David Soto*  - dasoto@gmail.com
-@Galvanize Data Science Immersive Program
+#### Created by Bhargav Chandra
+B.Tech AIML Student
+VIT
 ### 1. Project Summary and motivation
 The purpose of this project is to create a tool that considering the image of a
 mole, can calculate the probability that a mole can be malign.
